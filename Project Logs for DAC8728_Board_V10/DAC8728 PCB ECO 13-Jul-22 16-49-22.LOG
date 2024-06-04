@@ -1,0 +1,32 @@
+Added Component: Designator=C58(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1u 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_1u_X5R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C59(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1u 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_1u_X5R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C58-1
+Added Pin To Net: NetName=DGND Pin=C58-2
+Added Pin To Net: NetName=DGND Pin=C59-1
+Added Pin To Net: NetName=VCC Pin=C59-2
+Added Member To Class: ClassName=DAC7828_main Member=Component C58 1u 50V
+Added Member To Class: ClassName=DAC7828_main Member=Component C59 1u 50V

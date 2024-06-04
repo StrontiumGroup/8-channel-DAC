@@ -1,0 +1,121 @@
+Change Component Designator: OldDesignator=U18 NewDesignator=S1
+Added Component: Designator=Fid1(fiducial)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 09:08:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fiducial"; VariantName = "[No Variations]"
+Added Component: Designator=Fid2(fiducial)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 09:08:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fiducial"; VariantName = "[No Variations]"
+Added Component: Designator=Graph1(UvA_Logo)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:43:00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "UvA Logo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "UvA_Logo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Logo"; VariantName = "[No Variations]"
+Added Component: Designator=J3(2214S-50SG-85)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "14-Aug-18 11:10:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "2214S-50SG-85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Header 2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "2214S-50SG-85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2847249"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P1030X265-16N
+Added Pin To Net: NetName=D1 Pin=J3-1
+Added Pin To Net: NetName=DGND Pin=J3-2
+Added Pin To Net: NetName=D2 Pin=J3-3
+Added Pin To Net: NetName=DGND Pin=J3-4
+Added Pin To Net: NetName=D3 Pin=J3-5
+Added Pin To Net: NetName=DGND Pin=J3-6
+Added Pin To Net: NetName=D4 Pin=J3-7
+Added Pin To Net: NetName=DGND Pin=J3-8
+Added Pin To Net: NetName=D5 Pin=J3-9
+Added Pin To Net: NetName=DGND Pin=J3-10
+Added Pin To Net: NetName=D6 Pin=J3-11
+Added Pin To Net: NetName=DGND Pin=J3-12
+Added Pin To Net: NetName=D7 Pin=J3-13
+Added Pin To Net: NetName=DGND Pin=J3-14
+Added Pin To Net: NetName=D8 Pin=J3-15
+Added Pin To Net: NetName=DGND Pin=J3-16
+Added Pin To Net: NetName=D9 Pin=J3-17
+Added Pin To Net: NetName=DGND Pin=J3-18
+Added Pin To Net: NetName=D10 Pin=J3-19
+Added Pin To Net: NetName=DGND Pin=J3-20
+Added Pin To Net: NetName=D11 Pin=J3-21
+Added Pin To Net: NetName=DGND Pin=J3-22
+Added Pin To Net: NetName=D12 Pin=J3-23
+Added Pin To Net: NetName=DGND Pin=J3-24
+Added Pin To Net: NetName=D13 Pin=J3-25
+Added Pin To Net: NetName=DGND Pin=J3-26
+Added Pin To Net: NetName=D14 Pin=J3-27
+Added Pin To Net: NetName=DGND Pin=J3-28
+Added Pin To Net: NetName=D15 Pin=J3-29
+Added Pin To Net: NetName=DGND Pin=J3-30
+Added Pin To Net: NetName=D16 Pin=J3-31
+Added Pin To Net: NetName=DGND Pin=J3-32
+Added Pin To Net: NetName=A0 Pin=J3-33
+Added Pin To Net: NetName=DGND Pin=J3-34
+Added Pin To Net: NetName=A1 Pin=J3-35
+Added Pin To Net: NetName=DGND Pin=J3-36
+Added Pin To Net: NetName=A2 Pin=J3-37
+Added Pin To Net: NetName=DGND Pin=J3-38
+Added Pin To Net: NetName=A3 Pin=J3-39
+Added Pin To Net: NetName=DGND Pin=J3-40
+Added Pin To Net: NetName=A4 Pin=J3-41
+Added Pin To Net: NetName=DGND Pin=J3-42
+Added Pin To Net: NetName=A5 Pin=J3-43
+Added Pin To Net: NetName=DGND Pin=J3-44
+Added Pin To Net: NetName=A6 Pin=J3-45
+Added Pin To Net: NetName=DGND Pin=J3-46
+Added Pin To Net: NetName=A7 Pin=J3-47
+Added Pin To Net: NetName=DGND Pin=J3-48
+Added Pin To Net: NetName=STROBE Pin=J3-49
+Added Pin To Net: NetName=DGND Pin=J3-50
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-4
+Add Pin To Net: Unknown Pin: Pin U14-5
+Add Pin To Net: Unknown Pin: Pin U14-6
+Add Pin To Net: Unknown Pin: Pin U14-7
+Add Pin To Net: Unknown Pin: Pin U14-8
+Add Pin To Net: Unknown Pin: Pin U14-10
+Add Pin To Net: Unknown Pin: Pin U14-11
+Add Pin To Net: Unknown Pin: Pin U14-13
+Add Pin To Net: Unknown Pin: Pin U14-15
+Add Pin To Net: Unknown Pin: Pin U14-17
+Add Pin To Net: Unknown Pin: Pin U14-19
+Add Pin To Net: Unknown Pin: Pin U14-20
+Added Pin To Net: NetName=NetS1_6 Pin=S1-6
+Added Net: Name=NetS1_6
+Added Pin To Net: NetName=NetS1_7 Pin=S1-7
+Added Net: Name=NetS1_7
+Added Pin To Net: NetName=NetS1_8 Pin=S1-8
+Added Net: Name=NetS1_8
+Added Pin To Net: NetName=NetS1_9 Pin=S1-9
+Added Net: Name=NetS1_9
+Added Pin To Net: NetName=NetS1_10 Pin=S1-10
+Added Net: Name=NetS1_10
+Added Member To Class: ClassName=DAC7828_main Member=Component Fid1 Fiducial
+Added Member To Class: ClassName=DAC7828_main Member=Component Fid2 Fiducial
+Added Member To Class: ClassName=DAC7828_main Member=Component Graph1 UvA Logo
+Added Member To Class: ClassName=DAC7828_main Member=Component J3 Header 2.54
+Add Class Member: Failed to add class member : Component U14 SN74HC688PWR

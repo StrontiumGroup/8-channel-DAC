@@ -1,0 +1,85 @@
+Added Component: Designator=R54(res0603HD)
+Add component (AddParameter): Name = "Author"; Value = "RoKo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "04-Apr-22 10:27:21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603HD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Component: Designator=R55(res0603HD)
+Add component (AddParameter): Name = "Author"; Value = "RoKo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "04-Apr-22 10:27:21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603HD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Component: Designator=R56(res0603HD)
+Add component (AddParameter): Name = "Author"; Value = "RoKo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "04-Apr-22 10:27:21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603HD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Component: Designator=R57(res0603HD)
+Add component (AddParameter): Name = "Author"; Value = "RoKo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "04-Apr-22 10:27:21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603HD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Component: Designator=R58(res0603HD)
+Add component (AddParameter): Name = "Author"; Value = "RoKo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "04-Apr-22 10:27:21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603HD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=R54-1
+Added Pin To Net: NetName=DGND Pin=R55-1
+Added Pin To Net: NetName=DGND Pin=R56-1
+Added Pin To Net: NetName=DGND Pin=R57-1
+Added Pin To Net: NetName=DGND Pin=R58-1
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR54_2 Pin=S1-10
+Added Pin To Net: NetName=NetR54_2 Pin=U14-9
+Added Net: Name=NetR54_2
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=NetR55_2 Pin=S1-9
+Added Pin To Net: NetName=NetR55_2 Pin=U14-12
+Added Net: Name=NetR55_2
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=S1-8
+Added Pin To Net: NetName=NetR56_2 Pin=U14-14
+Added Net: Name=NetR56_2
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=S1-7
+Added Pin To Net: NetName=NetR57_2 Pin=U14-16
+Added Net: Name=NetR57_2
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=NetR58_2 Pin=S1-6
+Added Pin To Net: NetName=NetR58_2 Pin=U14-18
+Added Net: Name=NetR58_2
+Added Member To Class: ClassName=DAC7828_main Member=Component R54 10K
+Added Member To Class: ClassName=DAC7828_main Member=Component R55 10K
+Added Member To Class: ClassName=DAC7828_main Member=Component R56 10K
+Added Member To Class: ClassName=DAC7828_main Member=Component R57 10K
+Added Member To Class: ClassName=DAC7828_main Member=Component R58 10K

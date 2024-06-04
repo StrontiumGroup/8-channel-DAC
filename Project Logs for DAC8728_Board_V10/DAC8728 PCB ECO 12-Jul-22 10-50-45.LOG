@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=+18V Pin=R2-2
+Removed Pin From Net: NetName=-18V Pin=R14-2
+Change Component Comment : Designator=R2 Old Comment=15K New Comment=18K
+Change Component Comment : Designator=R8 Old Comment=15K New Comment=18K
+Change Component Comment : Designator=R10 Old Comment=15K New Comment=18K
+Change Component Comment : Designator=R14 Old Comment=15K New Comment=18K
+Change Component Designator: OldDesignator=J2 NewDesignator=P10
+Change Component Designator: OldDesignator=J3 NewDesignator=P9
+Change component parameters: Designator = "R2" ("R2"); Footprint = "res0603MD"; UniqueID = "\KUCXOLOF" ("\KUCXOLOF")
+Change component parameters (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "342"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "Res0603MD_18K_1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9330720"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "res0603MD"; UniqueID = "\RRWTTMFE" ("\RRWTTMFE")
+Change component parameters (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "342"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "Res0603MD_18K_1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9330720"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "res0603MD"; UniqueID = "\ZHBTSXTO" ("\ZHBTSXTO")
+Change component parameters (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "342"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "Res0603MD_18K_1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9330720"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "res0603MD"; UniqueID = "\JBDKQTQO" ("\JBDKQTQO")
+Change component parameters (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "342"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "Res0603MD_18K_1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "18K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9330720"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P1030X265-16N
+Added Pin To Net: NetName=+18V Pin=R2-1
+Added Pin To Net: NetName=-18V Pin=R14-1
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-4
+Add Pin To Net: Unknown Pin: Pin U14-5
+Add Pin To Net: Unknown Pin: Pin U14-6
+Add Pin To Net: Unknown Pin: Pin U14-7
+Add Pin To Net: Unknown Pin: Pin U14-8
+Add Pin To Net: Unknown Pin: Pin U14-9
+Add Pin To Net: Unknown Pin: Pin U14-10
+Add Pin To Net: Unknown Pin: Pin U14-11
+Add Pin To Net: Unknown Pin: Pin U14-12
+Add Pin To Net: Unknown Pin: Pin U14-13
+Add Pin To Net: Unknown Pin: Pin U14-14
+Add Pin To Net: Unknown Pin: Pin U14-15
+Add Pin To Net: Unknown Pin: Pin U14-16
+Add Pin To Net: Unknown Pin: Pin U14-17
+Add Pin To Net: Unknown Pin: Pin U14-18
+Add Pin To Net: Unknown Pin: Pin U14-19
+Add Pin To Net: Unknown Pin: Pin U14-20
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=T1-3
+Added Pin To Net: NetName=NetR2_2 Pin=U5-4
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=T4-1
+Added Pin To Net: NetName=NetR14_2 Pin=U6-3
+Added Net: Name=NetR14_2
+Add Class Member: Failed to add class member : Component U14 SN74HC688PWR

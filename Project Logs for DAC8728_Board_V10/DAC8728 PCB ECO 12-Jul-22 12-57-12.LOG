@@ -1,0 +1,32 @@
+Added Component: Designator=U14(SOIC127P1030X265-20N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Jul-22 12:33:51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "SN74HC688PWR2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SN74HC688PWR2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SN74HC688PWR2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Logic"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=U14-1
+Added Pin To Net: NetName=STROBE Pin=U14-2
+Added Pin To Net: NetName=+5V Pin=U14-3
+Added Pin To Net: NetName=DGND Pin=U14-4
+Added Pin To Net: NetName=DGND Pin=U14-5
+Added Pin To Net: NetName=DGND Pin=U14-6
+Added Pin To Net: NetName=DGND Pin=U14-7
+Added Pin To Net: NetName=A7 Pin=U14-8
+Added Pin To Net: NetName=NetS1_10 Pin=U14-9
+Added Pin To Net: NetName=DGND Pin=U14-10
+Added Pin To Net: NetName=A6 Pin=U14-11
+Added Pin To Net: NetName=NetS1_9 Pin=U14-12
+Added Pin To Net: NetName=A5 Pin=U14-13
+Added Pin To Net: NetName=NetS1_8 Pin=U14-14
+Added Pin To Net: NetName=A4 Pin=U14-15
+Added Pin To Net: NetName=NetS1_7 Pin=U14-16
+Added Pin To Net: NetName=A3 Pin=U14-17
+Added Pin To Net: NetName=NetS1_6 Pin=U14-18
+Added Pin To Net: NetName=NetU14_19 Pin=U14-19
+Added Pin To Net: NetName=VCC Pin=U14-20
+Added Member To Class: ClassName=DAC7828_main Member=Component U14 SN74HC688PWR2

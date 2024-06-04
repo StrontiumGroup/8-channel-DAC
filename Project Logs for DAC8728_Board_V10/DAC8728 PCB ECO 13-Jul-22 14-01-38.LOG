@@ -1,0 +1,121 @@
+Removed Pin From Net: NetName=+5V Pin=U17-27
+Removed Pin From Net: NetName=DGND Pin=U17-29
+Removed Pin From Net: NetName=DGND Pin=U17-57
+Added Component: Designator=R51(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R52(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R53(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Testpoint_1mm)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(Testpoint_1mm)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(Testpoint_1mm)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Testpoint_1mm)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(Testpoint_1mm)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R51-1
+Added Pin To Net: NetName=DGND Pin=R52-1
+Added Pin To Net: NetName=DGND Pin=R53-1
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=U17-27
+Added Net: Name=NetR51_2
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=NetR52_2 Pin=U17-29
+Added Net: Name=NetR52_2
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=NetR53_2 Pin=U17-57
+Added Net: Name=NetR53_2
+Added Pin To Net: NetName=NetTP1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetTP1_1 Pin=U17-4
+Added Net: Name=NetTP1_1
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP2_1 Pin=U17-12
+Added Net: Name=NetTP2_1
+Added Pin To Net: NetName=NetTP3_1 Pin=TP3-1
+Added Pin To Net: NetName=NetTP3_1 Pin=U17-37
+Added Net: Name=NetTP3_1
+Added Pin To Net: NetName=NetTP4_1 Pin=TP4-1
+Added Pin To Net: NetName=NetTP4_1 Pin=U17-33
+Added Net: Name=NetTP4_1
+Added Pin To Net: NetName=NetTP5_1 Pin=TP5-1
+Added Pin To Net: NetName=NetTP5_1 Pin=U17-16
+Added Net: Name=NetTP5_1
+Added Member To Class: ClassName=DAC7828_main Member=Component C14 1u 50V
+Added Member To Class: ClassName=DAC7828_main Member=Component C36 220u 25V
+Added Member To Class: ClassName=DAC7828_main Member=Component R8 18K
+Added Member To Class: ClassName=DAC7828_main Member=Component R51 4K7
+Added Member To Class: ClassName=DAC7828_main Member=Component R52 4K7
+Added Member To Class: ClassName=DAC7828_main Member=Component R53 4K7
+Added Member To Class: ClassName=DAC7828_main Member=Component T3 BSS138
+Added Member To Class: ClassName=DAC7828_main Member=Component TP1 Testpoint
+Added Member To Class: ClassName=DAC7828_main Member=Component TP2 Testpoint
+Added Member To Class: ClassName=DAC7828_main Member=Component TP3 Testpoint
+Added Member To Class: ClassName=DAC7828_main Member=Component TP4 Testpoint
+Added Member To Class: ClassName=DAC7828_main Member=Component TP5 Testpoint
+Added Member To Class: ClassName=DAC7828_main Member=Component U17 DAC8728SPAG
