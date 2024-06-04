@@ -1,0 +1,4 @@
+//=====OptoCouplers
+
+U5(PS250...) V_R4=3.8V@1K8=2.1mA Uce=0.16V  U6 is ~equal
+U20(VOM618..) V_R12=16.9V@4K7=3.6mA Uce=0.17V
