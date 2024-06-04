@@ -1,4 +1,0 @@
-Record=TopLevelDocument|FileName=DAC8728_Main_Modified.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=DAC8728_Main_Modified.SchDoc|Designator=Output buffers|SchDesignator=Output buffers|FileName=DAC8728_Output-buffers.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DAC8728_Output-buffers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=DAC8728_Main_Modified.SchDoc|Designator=Voltage-Reg-Ref|SchDesignator=Voltage-Reg-Ref|FileName=DAC7828_Voltage-Reg-Ref.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DAC7828_Voltage-Reg-Ref.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=DAC8728_Main_Modified.SchDoc|FileName=KladSheet.SchDoc|SheetNumber=4
